@@ -1,5 +1,5 @@
 # %%
-pip install yfinance numpy scipy matplotlib mplfinance plotly
+
 
 import yfinance as yf
 import numpy as np
@@ -325,6 +325,7 @@ fig.update_layout(
 fig.show()
 
 # %%
+
 
 
 
